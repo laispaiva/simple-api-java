@@ -1,3 +1,6 @@
+name: Meu primeiro workflow
+on: push
+
 on: push
 
 jobs:
